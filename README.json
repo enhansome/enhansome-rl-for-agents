@@ -1,0 +1,1276 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "📚 Papers & Research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "The Landscape of Agentic Reinforcement Learning for LLMs: A Survey [Preprint'25]",
+          "description": "[AwesomeList]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-18T07:12:43Z",
+            "owner": "HHHHHejia",
+            "repo": "Awesome-AgenticLLM-RL-Papers",
+            "stars": 1864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deep Research Agents: A Systematic Examination And Roadmap [Preprint'25]",
+          "description": "[AwesomeList]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-18T18:48:52Z",
+            "owner": "WuizaKaseiyo",
+            "repo": "awesome-deep-research-agent",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "A Survey of LLM-based Deep Search Agents: Paradigm, Optimization, Evaluation, and Challenges [Preprint'25]",
+          "description": "[AwesomeList]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-02T05:41:56Z",
+            "owner": "YunjiaXi",
+            "repo": "Awesome-Search-Agent-Papers",
+            "stars": 184
+          }
+        }
+      ],
+      "title": "Survey & Review"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn Reinforcement Learning [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-27T04:57:26Z",
+            "owner": "bytedance",
+            "repo": "UI-TARS",
+            "stars": 11332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoWebGLM: A Large Language Model-based Web Navigating Agent [KDD'24]",
+          "description": "[Preprint'24] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-27T10:08:29Z",
+            "owner": "THUDM",
+            "repo": "AutoWebGLM",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OPENCUA: OpenFoundations for Computer-Use Agents [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-25T01:46:42Z",
+            "owner": "xlang-ai",
+            "repo": "OpenCUA",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TMax: A Simple Recipe for Terminal Agents [Preprint'26]",
+          "description": "[Code] [Blog]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T22:09:55Z",
+            "owner": "hamishivi",
+            "repo": "tmax",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARPO: End-to-End Policy Optimization for GUI Agents with Experience Replay [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-29T07:09:20Z",
+            "owner": "JIA-Lab-research",
+            "repo": "ARPO",
+            "stars": 163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI-R1: Enhancing Action Prediction of GUI Agents by Reinforcement Learning [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-24T08:52:12Z",
+            "owner": "lll6gg",
+            "repo": "UI-R1",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digi-Q: Learning Q-Value Functions for Training Device-Control Agents [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-08T02:48:14Z",
+            "owner": "DigiRL-agent",
+            "repo": "digiq",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-04T13:36:09Z",
+            "owner": "InfiXAI",
+            "repo": "InfiGUI-R1",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "RL for Computer-using Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tongyi DeepResearch: A New Era of Open-Source AI Researchers [Blog]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T13:12:11Z",
+            "owner": "Alibaba-NLP",
+            "repo": "DeepResearch",
+            "stars": 19821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebShaper: Towards Autonomous Information Seeking Agency [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T13:12:11Z",
+            "owner": "Alibaba-NLP",
+            "repo": "DeepResearch",
+            "stars": 19821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebSailor: Navigating Super-human Reasoning for Web Agent [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T13:12:11Z",
+            "owner": "Alibaba-NLP",
+            "repo": "DeepResearch",
+            "stars": 19821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search-R1: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning [COLM'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-13T21:56:33Z",
+            "owner": "PeterGriffinJin",
+            "repo": "Search-R1",
+            "stars": 5291
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReCall: Learning to Reason with Tool Call for LLMs via Reinforcement Learning [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-16T10:31:58Z",
+            "owner": "Agent-RL",
+            "repo": "ReCall",
+            "stars": 1426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroSearch: Incentivize the Search Capability of LLMs without Searching [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-16T17:34:58Z",
+            "owner": "Alibaba-NLP",
+            "repo": "ZeroSearch",
+            "stars": 1305
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARPO: Agentic Reinforced Policy Optimization [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T07:06:28Z",
+            "owner": "RUC-NLPIR",
+            "repo": "ARPO",
+            "stars": 1105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepResearcher: Scaling Deep Research via Reinforcement Learning in Real-world Environments [EMNLP'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-10T13:05:27Z",
+            "owner": "GAIR-NLP",
+            "repo": "DeepResearcher",
+            "stars": 794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R1-Searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-05T08:16:17Z",
+            "owner": "RUCAIBox",
+            "repo": "R1-Searcher",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale Asynchronous RL [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T06:28:16Z",
+            "owner": "inclusionAI",
+            "repo": "ASearcher",
+            "stars": 606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cognitive Kernel-Pro: A Framework for Deep Research Agents and Agent Foundation Models Training [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-29T07:47:14Z",
+            "owner": "Tencent",
+            "repo": "CognitiveKernel-Pro",
+            "stars": 529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSRL: Self-Search Reinforcement Learning [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-20T10:25:29Z",
+            "owner": "TsinghuaC3I",
+            "repo": "SSRL",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents [Preprint'26]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-26T14:10:04Z",
+            "owner": "RedSearchAgent",
+            "repo": "REDSearcher",
+            "stars": 136
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-25T16:33:57Z",
+            "owner": "RUCAIBox",
+            "repo": "R1-Searcher-plus",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R-Search: Empowering LLM Reasoning with Search via Multi-Reward Reinforcement Learning [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T02:38:21Z",
+            "owner": "QingFei1",
+            "repo": "R-Search",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentic Reasoning: Reasoning LLMs with Tools for the Deep Research [Preprint'25]",
+          "description": "[Code]",
+          "children": []
+        }
+      ],
+      "title": "RL for Research Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T18:11:03Z",
+            "owner": "TIGER-AI-Lab",
+            "repo": "verl-tool",
+            "stars": 1031
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToolRL: Reward is All Tool Learning Needs [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-16T16:17:55Z",
+            "owner": "qiancheng0",
+            "repo": "ToolRL",
+            "stars": 513
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TORL: Scaling Tool-Integrated RL [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-24T12:14:33Z",
+            "owner": "GAIR-NLP",
+            "repo": "ToRL",
+            "stars": 353
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent models: Internalizing Chain-of-Action Generation into Reasoning models [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-18T09:16:01Z",
+            "owner": "ADaM-BJTU",
+            "repo": "AutoCoA",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisualToolAgent (VisTA): A Reinforcement Learning Framework for Visual Tool Selection [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-31T22:11:42Z",
+            "owner": "OoDBag",
+            "repo": "VisTA",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "RL for Tool-using Problem Solver"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T07:54:20Z",
+            "owner": "aiming-lab",
+            "repo": "Agent0",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent0: Unleashing Self-Evolving Agents from Zero Data via Tool-Integrated Reasoning [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T07:54:20Z",
+            "owner": "aiming-lab",
+            "repo": "Agent0",
+            "stars": 1247
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search Self-play: Pushing the Frontier of Agent Capability without Supervision [ICLR'26]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T15:45:52Z",
+            "owner": "Alibaba-Quark",
+            "repo": "SSP",
+            "stars": 105
+          }
+        }
+      ],
+      "title": "Self-Playing Agent with RL"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepEyes: Incentivizing \"Thinking with Images\" via Reinforcement Learning [ICLR'26]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-20T11:57:10Z",
+            "owner": "Visual-Agent",
+            "repo": "DeepEyes",
+            "stars": 1263
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepEyesV2: Toward Agentic Multimodal Model [ICLR'26]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-26T06:39:20Z",
+            "owner": "Visual-Agent",
+            "repo": "DeepEyesV2",
+            "stars": 630
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMSearch-R1: Incentivizing LMMs to Search [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-07T12:24:53Z",
+            "owner": "EvolvingLMMs-Lab",
+            "repo": "multimodal-search-r1",
+            "stars": 478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception [Preprint'26]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-04T12:18:51Z",
+            "owner": "inclusionAI",
+            "repo": "Zooming-without-Zooming",
+            "stars": 186
+          }
+        }
+      ],
+      "title": "RL for Multi-Modal Agent (Thinking w Image / MMSearch)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DAPO: An Open-Source LLM Reinforcement Learning System at Scale [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-11T09:09:41Z",
+            "owner": "BytedTsinghua-SIA",
+            "repo": "DAPO",
+            "stars": 1854
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skywork-OR1 (Open Reasoner 1) [Blog]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-06T03:14:28Z",
+            "owner": "SkyworkAI",
+            "repo": "Skywork-OR1",
+            "stars": 739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIMR: Less is More for RL Scaling [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-20T15:28:15Z",
+            "owner": "GAIR-NLP",
+            "repo": "LIMR",
+            "stars": 221
+          }
+        }
+      ],
+      "title": "Reinforcement Learning Scaling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Seed-1.8 [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-19T08:14:51Z",
+            "owner": "ByteDance-Seed",
+            "repo": "Seed-1.8",
+            "stars": 220
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MPO: Boosting LLM Agents with Meta Plan Optimization [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-20T17:40:27Z",
+            "owner": "WeiminXiong",
+            "repo": "MPO",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UFO: A Simple \"Try Again\" Can Elicit Multi-Turn LLM Reasoning [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-31T06:47:46Z",
+            "owner": "lichengliu03",
+            "repo": "unary-feedback",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "Others"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🕹 Benchmarks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BrowseComp: a benchmark for browsing agents [Blog]",
+          "description": "[Paper] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T22:16:18Z",
+            "owner": "openai",
+            "repo": "simple-evals",
+            "stars": 4597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models [Preprint'26]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T17:33:29Z",
+            "owner": "Osilly",
+            "repo": "Vision-DeepResearch",
+            "stars": 675
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Marco Search Agent: Towards Real‑World and Challenging Agentic Search (including HSCodeComp and DeepWideSearch) [Preprint'25(1)]",
+          "description": "[Preprint'25(2)] [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T09:34:23Z",
+            "owner": "ATH-MaaS",
+            "repo": "Marco-DeepResearch",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning [Preprint'26]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T07:14:13Z",
+            "owner": "QuantaAlpha",
+            "repo": "VideoDR-Benchmark",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BrowseComp-ZH: Benchmarking the Web Browsing Ability of Large Language Models in Chinese [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-14T07:18:36Z",
+            "owner": "PALIN2018",
+            "repo": "BrowseComp-ZH",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OmniGAIA: Towards Native Omni-Modal AI Agents [Preprint'26]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-02T09:56:08Z",
+            "owner": "RUC-NLPIR",
+            "repo": "OmniGAIA",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios [Preprint'26]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-10T06:19:07Z",
+            "owner": "hkust-nlp",
+            "repo": "AgentVista",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents [ICLR'26]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-04T04:58:44Z",
+            "owner": "MMBrowseComp",
+            "repo": "MM-BrowseComp",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MMSearch-Plus: Benchmarking Provenance-Aware Search for Multimodal Browsing Agents [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-06T08:18:49Z",
+            "owner": "mmsearch-plus",
+            "repo": "MMSearch-Plus",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Deep research"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments [NeurIPS'24]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:12:29Z",
+            "owner": "xlang-ai",
+            "repo": "OSWorld",
+            "stars": 3078
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks? [Preprint'26]",
+          "description": "[Code] [Website]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T01:43:46Z",
+            "owner": "TIGER-AI-Lab",
+            "repo": "ClawBench",
+            "stars": 561
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeeClick: Harnessing GUI Grounding for Advanced Visual GUI Agents [ACL'24]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2025-07-13T06:44:39Z",
+            "owner": "njucckevin",
+            "repo": "SeeClick",
+            "stars": 495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScreenSpot-Pro: GUI Grounding for Professional High-Resolution Computer Use [Paper]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-17T14:27:31Z",
+            "owner": "likaixin2000",
+            "repo": "ScreenSpot-Pro-GUI-Grounding",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Computer Agent Arena: Compare & Test AI Agents on Crowdsourced Real-World Computer Use Tasks [Platform]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-26T15:47:16Z",
+            "owner": "xlang-ai",
+            "repo": "computer-agent-arena",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Computer Use"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "🧪 Demos & Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenManus-RL [Code]",
+          "description": "& OpenManus [Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-05T06:03:26Z",
+            "owner": "OpenManus",
+            "repo": "OpenManus-RL",
+            "stars": 4146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RAGEN: Training Agents by Reinforcing Reasoning [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T19:20:04Z",
+            "owner": "mll-lab-nu",
+            "repo": "RAGEN",
+            "stars": 2768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyRL-v0: Train Real-World Long-Horizon Agents via Reinforcement Learning [Blog]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:43:40Z",
+            "owner": "NovaSky-AI",
+            "repo": "SkyRL",
+            "stars": 2149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:12:22Z",
+            "owner": "AgentR1",
+            "repo": "Agent-R1",
+            "stars": 1610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VAGEN: Training VLM Agents with Multi-Turn Reinforcement Learning [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T23:45:53Z",
+            "owner": "mll-lab-nu",
+            "repo": "VAGEN",
+            "stars": 493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Terminal-Bench-RL: Training Long-Horizon Terminal Agents with Reinforcement Learning [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-24T10:28:11Z",
+            "owner": "Danau5tin",
+            "repo": "terminal-bench-rl",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Claw-R1: Empowering OpenClaw with Advanced Agentic RL [Page]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-09T02:40:36Z",
+            "owner": "AgentR1",
+            "repo": "Claw-R1",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "RL-based LLM agent tuning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open-Reasoner-Zero: An Open Source Approach to Scaling Up Reinforcement Learning on the Base Model [Preprint'25]",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-02T16:36:00Z",
+            "owner": "Open-Reasoner-Zero",
+            "repo": "Open-Reasoner-Zero",
+            "stars": 2097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "simple_GRPO [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-21T01:03:17Z",
+            "owner": "lsdefine",
+            "repo": "simple_GRPO",
+            "stars": 1702
+          }
+        }
+      ],
+      "title": "RL-based LLM tuning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agent2Agent (A2A) protocol [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-13T08:39:32Z",
+            "owner": "a2aproject",
+            "repo": "A2A",
+            "stars": 25326
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mcp-agent [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-25T16:35:16Z",
+            "owner": "lastmile-ai",
+            "repo": "mcp-agent",
+            "stars": 8505
+          }
+        }
+      ],
+      "title": "MCP Agents"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "verl: Volcano Engine Reinforcement Learning for LLM [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:33:26Z",
+            "owner": "verl-project",
+            "repo": "verl",
+            "stars": 22943
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slime: An SGLang-Native Post-Training Framework for RL Scaling [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:51:11Z",
+            "owner": "THUDM",
+            "repo": "slime",
+            "stars": 7879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rLLM: Reinforcement Learning for Language Agents [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:02:18Z",
+            "owner": "rllm-org",
+            "repo": "rllm",
+            "stars": 5784
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harbor: A framework for evaluating and optimizing agents and models in container environments [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T05:15:01Z",
+            "owner": "harbor-framework",
+            "repo": "harbor",
+            "stars": 4172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ROLL: Reinforcement Learning Optimization for Large-Scale Learning [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:37:53Z",
+            "owner": "alibaba",
+            "repo": "ROLL",
+            "stars": 3361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HUD: A toolkit for building RL environments with verifiable, task-based rewards for LLM agents (coding, browser, computer-use, robotics), runnable as evals and RL training [Code]",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:47:52Z",
+            "owner": "hud-evals",
+            "repo": "hud-python",
+            "stars": 291
+          }
+        }
+      ],
+      "title": "🧰 Toolkits & Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Agent-Memory-Paper-List [List]",
+          "description": "covering agent memory papers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-04T03:39:29Z",
+            "owner": "Shichun-Liu",
+            "repo": "Agent-Memory-Paper-List",
+            "stars": 2311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-AgenticLLM-RL-Papers [List]",
+          "description": "covering Agentic RL papers in both agentic capabilities and applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-18T07:12:43Z",
+            "owner": "HHHHHejia",
+            "repo": "Awesome-AgenticLLM-RL-Papers",
+            "stars": 1864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Deep Research Agent [List]",
+          "description": "covering deep research agents and benchmark results",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-18T18:48:52Z",
+            "owner": "WuizaKaseiyo",
+            "repo": "awesome-deep-research-agent",
+            "stars": 634
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Agent-RL [List]",
+          "description": "covering RL for research agents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-10-11T02:18:38Z",
+            "owner": "0russwest0",
+            "repo": "Awesome-Agent-RL",
+            "stars": 511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome RL-based Agentic Search Papers [List]",
+          "description": "covering Agentic RL papers in agentic search systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-30T04:43:09Z",
+            "owner": "ventr1c",
+            "repo": "Awesome-RL-based-Agentic-Search-Papers",
+            "stars": 284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome-Search-Agent-Papers [List]",
+          "description": "covering search agent papers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-02T05:41:56Z",
+            "owner": "YunjiaXi",
+            "repo": "Awesome-Search-Agent-Papers",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "awesome-ml-agents [List]",
+          "description": "covering rl and agents before 2023",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-08-27T06:56:28Z",
+            "owner": "tokarev-i-v",
+            "repo": "awesome-llm-rl-agents",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "🔗 Related Awesome Lists"
+    },
+    {
+      "description": "Contributions are warmly welcome!\nIf you know a paper, tool, environment, or demo relevant to RL for Agents, feel free to open a pull request.",
+      "items": [],
+      "title": "🤝 Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:39:37.922Z",
+    "original_repository": "Necolizer/awesome-rl-for-agents",
+    "original_repository_sha": "701507b4f94e04af2c570d9395b479099eb2e57e",
+    "enhanced_repository": "enhansome/enhansome-rl-for-agents",
+    "enhanced_repository_description": null,
+    "title": "Awesome RL for Agents with stars"
+  }
+}
