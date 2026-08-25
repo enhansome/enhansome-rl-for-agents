@@ -69,7 +69,7 @@
                 "last_commit": "2026-01-27T04:57:26Z",
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11378
+                "stars": 11380
               }
             },
             {
@@ -196,7 +196,7 @@
                 "last_commit": "2026-02-27T13:12:11Z",
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 19872
+                "stars": 19873
               }
             },
             {
@@ -211,7 +211,7 @@
                 "last_commit": "2026-02-27T13:12:11Z",
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 19872
+                "stars": 19873
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-02-27T13:12:11Z",
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 19872
+                "stars": 19873
               }
             },
             {
@@ -1037,7 +1037,7 @@
                 "last_commit": "2026-08-19T06:47:29Z",
                 "owner": "xlang-ai",
                 "repo": "OSWorld-V2",
-                "stars": 256
+                "stars": 257
               }
             },
             {
@@ -1270,7 +1270,7 @@
             "last_commit": "2026-08-25T05:36:18Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23116
+            "stars": 23120
           }
         },
         {
@@ -1285,7 +1285,7 @@
             "last_commit": "2026-08-25T05:32:57Z",
             "owner": "THUDM",
             "repo": "slime",
-            "stars": 8236
+            "stars": 8239
           }
         },
         {
@@ -1315,7 +1315,7 @@
             "last_commit": "2026-08-25T02:35:35Z",
             "owner": "harbor-framework",
             "repo": "harbor",
-            "stars": 4597
+            "stars": 4602
           }
         },
         {
@@ -1464,7 +1464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:34:20.823Z",
+    "last_updated": "2026-08-25T07:52:46.303Z",
     "original_repository": "Necolizer/awesome-rl-for-agents",
     "original_repository_id": 961899332,
     "original_repository_sha": "393d694788b021c52a4bcc86078cc529c82ec3b1",
