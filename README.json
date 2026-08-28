@@ -17,8 +17,9 @@
                 "last_commit": "2026-06-18T07:12:43Z",
                 "owner": "HHHHHejia",
                 "repo": "Awesome-AgenticLLM-RL-Papers",
-                "stars": 1875
-              }
+                "stars": 1877
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "WuizaKaseiyo",
                 "repo": "awesome-deep-research-agent",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -47,8 +49,9 @@
                 "last_commit": "2026-08-13T08:58:23Z",
                 "owner": "YunjiaXi",
                 "repo": "Awesome-Search-Agent-Papers",
-                "stars": 190
-              }
+                "stars": 191
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -69,8 +72,9 @@
                 "last_commit": "2026-01-27T04:57:26Z",
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11393
-              }
+                "stars": 11399
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "THUDM",
                 "repo": "AutoWebGLM",
                 "stars": 930
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -99,8 +104,9 @@
                 "last_commit": "2026-05-25T01:46:42Z",
                 "owner": "xlang-ai",
                 "repo": "OpenCUA",
-                "stars": 826
-              }
+                "stars": 827
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -111,11 +117,12 @@
                 "archived": false,
                 "id": 1172962831,
                 "language": "Python",
-                "last_commit": "2026-08-13T17:11:12Z",
+                "last_commit": "2026-08-28T02:26:28Z",
                 "owner": "hamishivi",
                 "repo": "tmax",
                 "stars": 287
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "JIA-Lab-research",
                 "repo": "ARPO",
                 "stars": 163
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "lll6gg",
                 "repo": "UI-R1",
                 "stars": 160
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "DigiRL-agent",
                 "repo": "digiq",
                 "stars": 121
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "InfiXAI",
                 "repo": "InfiGUI-R1",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -196,8 +207,9 @@
                 "last_commit": "2026-02-27T13:12:11Z",
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 19879
-              }
+                "stars": 19882
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -211,8 +223,9 @@
                 "last_commit": "2026-02-27T13:12:11Z",
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 19879
-              }
+                "stars": 19882
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -226,8 +239,9 @@
                 "last_commit": "2026-02-27T13:12:11Z",
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 19879
-              }
+                "stars": 19882
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -241,8 +255,9 @@
                 "last_commit": "2025-11-13T21:56:33Z",
                 "owner": "PeterGriffinJin",
                 "repo": "Search-R1",
-                "stars": 5333
-              }
+                "stars": 5342
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -257,7 +272,8 @@
                 "owner": "Agent-RL",
                 "repo": "ReCall",
                 "stars": 1431
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -272,7 +288,8 @@
                 "owner": "Alibaba-NLP",
                 "repo": "ZeroSearch",
                 "stars": 1307
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -287,7 +304,8 @@
                 "owner": "RUC-NLPIR",
                 "repo": "ARPO",
                 "stars": 1111
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -302,7 +320,8 @@
                 "owner": "GAIR-NLP",
                 "repo": "DeepResearcher",
                 "stars": 798
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -317,7 +336,8 @@
                 "owner": "RUCAIBox",
                 "repo": "R1-Searcher",
                 "stars": 724
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -332,7 +352,8 @@
                 "owner": "inclusionAI",
                 "repo": "ASearcher",
                 "stars": 608
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -347,7 +368,8 @@
                 "owner": "Tencent",
                 "repo": "CognitiveKernel-Pro",
                 "stars": 530
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -361,8 +383,9 @@
                 "last_commit": "2025-08-20T10:25:29Z",
                 "owner": "TsinghuaC3I",
                 "repo": "SSRL",
-                "stars": 210
-              }
+                "stars": 211
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -377,7 +400,8 @@
                 "owner": "RedSearchAgent",
                 "repo": "REDSearcher",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -392,7 +416,8 @@
                 "owner": "RUCAIBox",
                 "repo": "R1-Searcher-plus",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -406,8 +431,9 @@
                 "last_commit": "2026-08-11T02:38:21Z",
                 "owner": "QingFei1",
                 "repo": "R-Search",
-                "stars": 35
-              }
+                "stars": 36
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -429,7 +455,8 @@
                 "owner": "TIGER-AI-Lab",
                 "repo": "verl-tool",
                 "stars": 1036
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -443,8 +470,9 @@
                 "last_commit": "2025-10-16T16:17:55Z",
                 "owner": "qiancheng0",
                 "repo": "ToolRL",
-                "stars": 516
-              }
+                "stars": 517
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -459,7 +487,8 @@
                 "owner": "GAIR-NLP",
                 "repo": "ToRL",
                 "stars": 352
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -474,7 +503,8 @@
                 "owner": "ADaM-BJTU",
                 "repo": "AutoCoA",
                 "stars": 134
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -489,7 +519,8 @@
                 "owner": "OoDBag",
                 "repo": "VisTA",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -511,7 +542,8 @@
                 "owner": "aiming-lab",
                 "repo": "Agent0",
                 "stars": 1256
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -526,7 +558,8 @@
                 "owner": "aiming-lab",
                 "repo": "Agent0",
                 "stars": 1256
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -541,7 +574,8 @@
                 "owner": "Alibaba-Quark",
                 "repo": "SSP",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -563,7 +597,8 @@
                 "owner": "BytedTsinghua-SIA",
                 "repo": "MemAgent",
                 "stars": 1100
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -584,8 +619,9 @@
                 "last_commit": "2025-11-20T11:57:10Z",
                 "owner": "Visual-Agent",
                 "repo": "DeepEyes",
-                "stars": 1272
-              }
+                "stars": 1273
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -599,8 +635,9 @@
                 "last_commit": "2026-02-26T06:39:20Z",
                 "owner": "Visual-Agent",
                 "repo": "DeepEyesV2",
-                "stars": 636
-              }
+                "stars": 638
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -614,8 +651,9 @@
                 "last_commit": "2026-04-07T12:24:53Z",
                 "owner": "EvolvingLMMs-Lab",
                 "repo": "multimodal-search-r1",
-                "stars": 482
-              }
+                "stars": 483
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -630,7 +668,8 @@
                 "owner": "inclusionAI",
                 "repo": "Zooming-without-Zooming",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -651,8 +690,9 @@
                 "last_commit": "2026-05-17T13:25:57Z",
                 "owner": "aiming-lab",
                 "repo": "SkillRL",
-                "stars": 952
-              }
+                "stars": 954
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -673,8 +713,9 @@
                 "last_commit": "2025-05-11T09:09:41Z",
                 "owner": "BytedTsinghua-SIA",
                 "repo": "DAPO",
-                "stars": 1860
-              }
+                "stars": 1861
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -689,7 +730,8 @@
                 "owner": "SkyworkAI",
                 "repo": "Skywork-OR1",
                 "stars": 738
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -704,7 +746,8 @@
                 "owner": "GAIR-NLP",
                 "repo": "LIMR",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -726,7 +769,8 @@
                 "owner": "ByteDance-Seed",
                 "repo": "Seed-1.8",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -741,7 +785,8 @@
                 "owner": "studio-dots-ai",
                 "repo": "dots3-note-prev",
                 "stars": 117
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -756,7 +801,8 @@
                 "owner": "WeiminXiong",
                 "repo": "MPO",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -771,7 +817,8 @@
                 "owner": "lichengliu03",
                 "repo": "unary-feedback",
                 "stars": 44
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -795,11 +842,12 @@
                 "archived": false,
                 "id": 1141514919,
                 "language": "Python",
-                "last_commit": "2026-08-27T14:29:12Z",
+                "last_commit": "2026-08-28T19:07:43Z",
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 552
-              }
+                "stars": 555
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -820,8 +868,9 @@
                 "last_commit": "2026-04-22T22:16:18Z",
                 "owner": "openai",
                 "repo": "simple-evals",
-                "stars": 4612
-              }
+                "stars": 4616
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -836,7 +885,8 @@
                 "owner": "Osilly",
                 "repo": "Vision-DeepResearch",
                 "stars": 677
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -851,7 +901,8 @@
                 "owner": "ATH-MaaS",
                 "repo": "Marco-DeepResearch",
                 "stars": 328
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -866,7 +917,8 @@
                 "owner": "QuantaAlpha",
                 "repo": "VideoDR-Benchmark",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -881,7 +933,8 @@
                 "owner": "PALIN2018",
                 "repo": "BrowseComp-ZH",
                 "stars": 161
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -896,7 +949,8 @@
                 "owner": "RUC-NLPIR",
                 "repo": "OmniGAIA",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -911,7 +965,8 @@
                 "owner": "hkust-nlp",
                 "repo": "AgentVista",
                 "stars": 73
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -926,7 +981,8 @@
                 "owner": "MMBrowseComp",
                 "repo": "MM-BrowseComp",
                 "stars": 71
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -941,7 +997,8 @@
                 "owner": "mmsearch-plus",
                 "repo": "MMSearch-Plus",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -962,8 +1019,9 @@
                 "last_commit": "2026-08-21T09:11:07Z",
                 "owner": "xlang-ai",
                 "repo": "OSWorld",
-                "stars": 3109
-              }
+                "stars": 3112
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -977,8 +1035,9 @@
                 "last_commit": "2026-08-25T22:20:05Z",
                 "owner": "rdi-berkeley",
                 "repo": "agents-last-exam",
-                "stars": 974
-              }
+                "stars": 976
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -992,8 +1051,9 @@
                 "last_commit": "2026-08-22T20:48:02Z",
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 594
-              }
+                "stars": 601
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1008,7 +1068,8 @@
                 "owner": "njucckevin",
                 "repo": "SeeClick",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1023,7 +1084,8 @@
                 "owner": "likaixin2000",
                 "repo": "ScreenSpot-Pro-GUI-Grounding",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1038,7 +1100,8 @@
                 "owner": "xlang-ai",
                 "repo": "OSWorld-V2",
                 "stars": 262
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1053,7 +1116,8 @@
                 "owner": "xlang-ai",
                 "repo": "computer-agent-arena",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -1081,7 +1145,8 @@
                 "owner": "OpenManus",
                 "repo": "OpenManus-RL",
                 "stars": 4155
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1096,7 +1161,8 @@
                 "owner": "mll-lab-nu",
                 "repo": "RAGEN",
                 "stars": 2779
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1110,8 +1176,9 @@
                 "last_commit": "2026-08-24T20:44:14Z",
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2203
-              }
+                "stars": 2206
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1125,8 +1192,9 @@
                 "last_commit": "2026-08-24T18:10:46Z",
                 "owner": "AgentR1",
                 "repo": "Agent-R1",
-                "stars": 1634
-              }
+                "stars": 1636
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1137,11 +1205,12 @@
                 "archived": false,
                 "id": 942934124,
                 "language": "Python",
-                "last_commit": "2026-08-26T11:09:27Z",
+                "last_commit": "2026-08-27T21:27:39Z",
                 "owner": "mll-lab-nu",
                 "repo": "VAGEN",
                 "stars": 493
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1156,7 +1225,8 @@
                 "owner": "Danau5tin",
                 "repo": "terminal-bench-rl",
                 "stars": 409
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1171,7 +1241,8 @@
                 "owner": "AgentR1",
                 "repo": "Claw-R1",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -1193,7 +1264,8 @@
                 "owner": "Open-Reasoner-Zero",
                 "repo": "Open-Reasoner-Zero",
                 "stars": 2099
-              }
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1207,8 +1279,9 @@
                 "last_commit": "2025-11-21T01:03:17Z",
                 "owner": "lsdefine",
                 "repo": "simple_GRPO",
-                "stars": 1702
-              }
+                "stars": 1703
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -1226,11 +1299,12 @@
                 "archived": false,
                 "id": 954873280,
                 "language": "Shell",
-                "last_commit": "2026-08-25T16:28:14Z",
+                "last_commit": "2026-08-28T13:20:05Z",
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25517
-              }
+                "stars": 25531
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             },
             {
               "node_type": "item",
@@ -1244,8 +1318,9 @@
                 "last_commit": "2026-01-25T16:35:16Z",
                 "owner": "lastmile-ai",
                 "repo": "mcp-agent",
-                "stars": 8521
-              }
+                "stars": 8522
+              },
+              "first_seen": "2026-08-28T19:23:29.938Z"
             }
           ],
           "description": null,
@@ -1267,11 +1342,12 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-27T09:34:36Z",
+            "last_commit": "2026-08-28T07:26:14Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23158
-          }
+            "stars": 23179
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1282,11 +1358,12 @@
             "archived": false,
             "id": 1004140701,
             "language": "Python",
-            "last_commit": "2026-08-27T16:00:37Z",
+            "last_commit": "2026-08-28T02:18:27Z",
             "owner": "THUDM",
             "repo": "slime",
-            "stars": 8273
-          }
+            "stars": 8293
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1300,8 +1377,9 @@
             "last_commit": "2026-08-24T06:46:08Z",
             "owner": "rllm-org",
             "repo": "rllm",
-            "stars": 5805
-          }
+            "stars": 5807
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1312,11 +1390,12 @@
             "archived": false,
             "id": 1032170083,
             "language": "Python",
-            "last_commit": "2026-08-27T18:00:31Z",
+            "last_commit": "2026-08-28T19:22:56Z",
             "owner": "harbor-framework",
             "repo": "harbor",
-            "stars": 4698
-          }
+            "stars": 4747
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1327,11 +1406,12 @@
             "archived": false,
             "id": 991939049,
             "language": "Python",
-            "last_commit": "2026-08-27T02:54:18Z",
+            "last_commit": "2026-08-28T03:50:42Z",
             "owner": "alibaba",
             "repo": "ROLL",
             "stars": 3373
-          }
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1342,11 +1422,12 @@
             "archived": false,
             "id": 941344611,
             "language": "Python",
-            "last_commit": "2026-08-26T22:11:30Z",
+            "last_commit": "2026-08-28T06:24:06Z",
             "owner": "hud-evals",
             "repo": "hud-python",
             "stars": 295
-          }
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         }
       ],
       "title": "🧰 Toolkits & Frameworks"
@@ -1366,8 +1447,9 @@
             "last_commit": "2026-03-04T03:39:29Z",
             "owner": "Shichun-Liu",
             "repo": "Agent-Memory-Paper-List",
-            "stars": 2351
-          }
+            "stars": 2353
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1381,8 +1463,9 @@
             "last_commit": "2026-06-18T07:12:43Z",
             "owner": "HHHHHejia",
             "repo": "Awesome-AgenticLLM-RL-Papers",
-            "stars": 1875
-          }
+            "stars": 1877
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1397,7 +1480,8 @@
             "owner": "WuizaKaseiyo",
             "repo": "awesome-deep-research-agent",
             "stars": 637
-          }
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1411,8 +1495,9 @@
             "last_commit": "2025-10-11T02:18:38Z",
             "owner": "0russwest0",
             "repo": "Awesome-Agent-RL",
-            "stars": 511
-          }
+            "stars": 512
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1427,7 +1512,8 @@
             "owner": "ventr1c",
             "repo": "Awesome-RL-based-Agentic-Search-Papers",
             "stars": 290
-          }
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1441,8 +1527,9 @@
             "last_commit": "2026-08-13T08:58:23Z",
             "owner": "YunjiaXi",
             "repo": "Awesome-Search-Agent-Papers",
-            "stars": 190
-          }
+            "stars": 191
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         },
         {
           "node_type": "item",
@@ -1457,14 +1544,15 @@
             "owner": "tokarev-i-v",
             "repo": "awesome-llm-rl-agents",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
         }
       ],
       "title": "🔗 Related Awesome Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:14:10.487Z",
+    "last_updated": "2026-08-28T19:23:29.938Z",
     "original_repository_info": {
       "archived": false,
       "id": 961899332,
