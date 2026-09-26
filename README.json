@@ -21,7 +21,7 @@
                 "open_issues": 9,
                 "owner": "HHHHHejia",
                 "repo": "Awesome-AgenticLLM-RL-Papers",
-                "stars": 1901,
+                "stars": 1900,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -91,7 +91,7 @@
                 "open_issues": 58,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11523,
+                "stars": 11524,
                 "topics": [
                   "research"
                 ]
@@ -135,7 +135,7 @@
                 "open_issues": 16,
                 "owner": "xlang-ai",
                 "repo": "OpenCUA",
-                "stars": 843,
+                "stars": 844,
                 "topics": [
                   "benchmark",
                   "computer-use-agent",
@@ -282,7 +282,7 @@
                 "open_issues": 97,
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 19991,
+                "stars": 19989,
                 "topics": [
                   "agent",
                   "alibaba",
@@ -313,7 +313,7 @@
                 "open_issues": 97,
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 19991,
+                "stars": 19989,
                 "topics": [
                   "agent",
                   "alibaba",
@@ -344,7 +344,7 @@
                 "open_issues": 97,
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 19991,
+                "stars": 19989,
                 "topics": [
                   "agent",
                   "alibaba",
@@ -375,7 +375,7 @@
                 "open_issues": 36,
                 "owner": "PeterGriffinJin",
                 "repo": "Search-R1",
-                "stars": 5449,
+                "stars": 5453,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -492,7 +492,7 @@
                 "open_issues": 21,
                 "owner": "RUCAIBox",
                 "repo": "R1-Searcher",
-                "stars": 725,
+                "stars": 726,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -534,7 +534,7 @@
                 "open_issues": 3,
                 "owner": "Tencent",
                 "repo": "CognitiveKernel-Pro",
-                "stars": 530,
+                "stars": 531,
                 "topics": [
                   "agent",
                   "llm"
@@ -600,7 +600,7 @@
                 "open_issues": 5,
                 "owner": "RUCAIBox",
                 "repo": "R1-Searcher-plus",
-                "stars": 83,
+                "stars": 84,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -787,7 +787,7 @@
                 "open_issues": 12,
                 "owner": "aiming-lab",
                 "repo": "Agent0",
-                "stars": 1267,
+                "stars": 1268,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -808,7 +808,7 @@
                 "open_issues": 12,
                 "owner": "aiming-lab",
                 "repo": "Agent0",
-                "stars": 1267,
+                "stars": 1268,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -864,7 +864,7 @@
                 "open_issues": 18,
                 "owner": "BytedTsinghua-SIA",
                 "repo": "MemAgent",
-                "stars": 1109,
+                "stars": 1110,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -974,16 +974,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+                "description": "[NeurIPS'26] SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
                 "homepage": "https://arxiv.org/abs/2602.08234",
                 "id": 1152962622,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-05-17T13:25:57Z",
+                "last_commit": "2026-09-25T14:18:57Z",
                 "open_issues": 0,
                 "owner": "aiming-lab",
                 "repo": "SkillRL",
-                "stars": 983,
+                "stars": 984,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1011,7 +1011,7 @@
                 "open_issues": 25,
                 "owner": "BytedTsinghua-SIA",
                 "repo": "DAPO",
-                "stars": 1936,
+                "stars": 1938,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1181,11 +1181,11 @@
                 "id": 1141514919,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T23:46:40Z",
-                "open_issues": 321,
+                "last_commit": "2026-09-26T00:49:43Z",
+                "open_issues": 326,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 770,
+                "stars": 780,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1210,10 +1210,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-04-22T22:16:18Z",
-                "open_issues": 64,
+                "open_issues": 65,
                 "owner": "openai",
                 "repo": "simple-evals",
-                "stars": 4640,
+                "stars": 4642,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1409,7 +1409,7 @@
                 "open_issues": 207,
                 "owner": "xlang-ai",
                 "repo": "OSWorld",
-                "stars": 3157,
+                "stars": 3156,
                 "topics": [
                   "agent",
                   "artificial-intelligence",
@@ -1445,7 +1445,7 @@
                 "open_issues": 33,
                 "owner": "rdi-berkeley",
                 "repo": "agents-last-exam",
-                "stars": 1050,
+                "stars": 1054,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1466,7 +1466,7 @@
                 "open_issues": 51,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 847,
+                "stars": 858,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -1550,7 +1550,7 @@
                 "open_issues": 30,
                 "owner": "xlang-ai",
                 "repo": "OSWorld-V2",
-                "stars": 330,
+                "stars": 335,
                 "topics": [
                   "agent",
                   "artificial-intelligence",
@@ -1619,7 +1619,7 @@
                 "open_issues": 27,
                 "owner": "OpenManus",
                 "repo": "OpenManus-RL",
-                "stars": 4158,
+                "stars": 4157,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1664,11 +1664,11 @@
                 "id": 970890722,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T07:40:25Z",
-                "open_issues": 490,
+                "last_commit": "2026-09-26T00:20:48Z",
+                "open_issues": 487,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2348,
+                "stars": 2349,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1689,7 +1689,7 @@
                 "open_issues": 46,
                 "owner": "AgentR1",
                 "repo": "Agent-R1",
-                "stars": 1677,
+                "stars": 1678,
                 "topics": [
                   "agent",
                   "agentic-rl",
@@ -1846,11 +1846,11 @@
                 "id": 954873280,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-22T13:28:54Z",
-                "open_issues": 263,
+                "last_commit": "2026-09-25T13:44:10Z",
+                "open_issues": 260,
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 25931,
+                "stars": 25939,
                 "topics": [
                   "a2a",
                   "a2a-mcp",
@@ -1879,7 +1879,7 @@
                 "open_issues": 139,
                 "owner": "lastmile-ai",
                 "repo": "mcp-agent",
-                "stars": 8560,
+                "stars": 8559,
                 "topics": [
                   "agents",
                   "ai",
@@ -1916,11 +1916,11 @@
             "id": 881221486,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T00:48:09Z",
-            "open_issues": 1260,
+            "last_commit": "2026-09-26T12:09:07Z",
+            "open_issues": 1266,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23607,
+            "stars": 23632,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1941,7 +1941,7 @@
             "open_issues": 518,
             "owner": "THUDM",
             "repo": "slime",
-            "stars": 8532,
+            "stars": 8537,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1959,10 +1959,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-12T21:26:46Z",
-            "open_issues": 168,
+            "open_issues": 169,
             "owner": "rllm-org",
             "repo": "rllm",
-            "stars": 5837,
+            "stars": 5839,
             "topics": [
               "agent-framework",
               "agentic-workflow",
@@ -1994,11 +1994,11 @@
             "id": 1032170083,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T07:00:35Z",
-            "open_issues": 934,
+            "last_commit": "2026-09-26T05:33:29Z",
+            "open_issues": 947,
             "owner": "harbor-framework",
             "repo": "harbor",
-            "stars": 5596,
+            "stars": 5617,
             "topics": [
               "evals",
               "rl-environments",
@@ -2019,11 +2019,11 @@
             "id": 991939049,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-25T01:29:08Z",
+            "last_commit": "2026-09-26T01:27:33Z",
             "open_issues": 134,
             "owner": "alibaba",
             "repo": "ROLL",
-            "stars": 3407,
+            "stars": 3408,
             "topics": [
               "agentic",
               "rlhf",
@@ -2044,7 +2044,7 @@
             "id": 941344611,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-25T10:16:16Z",
+            "last_commit": "2026-09-26T10:50:40Z",
             "open_issues": 3,
             "owner": "hud-evals",
             "repo": "hud-python",
@@ -2118,7 +2118,7 @@
             "open_issues": 17,
             "owner": "Shichun-Liu",
             "repo": "Agent-Memory-Paper-List",
-            "stars": 2398,
+            "stars": 2397,
             "topics": [
               "agent",
               "memory"
@@ -2142,7 +2142,7 @@
             "open_issues": 9,
             "owner": "HHHHHejia",
             "repo": "Awesome-AgenticLLM-RL-Papers",
-            "stars": 1901,
+            "stars": 1900,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:29.938Z"
@@ -2257,7 +2257,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:43:02.914Z",
+    "last_updated": "2026-09-26T12:10:56.175Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reinforcement learning (RL) for agents.",
