@@ -91,7 +91,7 @@
                 "open_issues": 58,
                 "owner": "bytedance",
                 "repo": "UI-TARS",
-                "stars": 11558,
+                "stars": 11560,
                 "topics": [
                   "research"
                 ]
@@ -282,7 +282,7 @@
                 "open_issues": 96,
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 20012,
+                "stars": 20013,
                 "topics": [
                   "agent",
                   "alibaba",
@@ -313,7 +313,7 @@
                 "open_issues": 96,
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 20012,
+                "stars": 20013,
                 "topics": [
                   "agent",
                   "alibaba",
@@ -344,7 +344,7 @@
                 "open_issues": 96,
                 "owner": "Alibaba-NLP",
                 "repo": "DeepResearch",
-                "stars": 20012,
+                "stars": 20013,
                 "topics": [
                   "agent",
                   "alibaba",
@@ -471,7 +471,7 @@
                 "open_issues": 9,
                 "owner": "GAIR-NLP",
                 "repo": "DeepResearcher",
-                "stars": 802,
+                "stars": 803,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1011,7 +1011,7 @@
                 "open_issues": 25,
                 "owner": "BytedTsinghua-SIA",
                 "repo": "DAPO",
-                "stars": 1944,
+                "stars": 1945,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1185,7 +1185,7 @@
                 "open_issues": 364,
                 "owner": "harbor-framework",
                 "repo": "terminal-bench",
-                "stars": 848,
+                "stars": 849,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1409,7 +1409,7 @@
                 "open_issues": 215,
                 "owner": "xlang-ai",
                 "repo": "OSWorld",
-                "stars": 3174,
+                "stars": 3175,
                 "topics": [
                   "agent",
                   "artificial-intelligence",
@@ -1466,7 +1466,7 @@
                 "open_issues": 51,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 956,
+                "stars": 957,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -1668,7 +1668,7 @@
                 "open_issues": 527,
                 "owner": "NovaSky-AI",
                 "repo": "SkyRL",
-                "stars": 2378,
+                "stars": 2379,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1689,7 +1689,7 @@
                 "open_issues": 47,
                 "owner": "AgentR1",
                 "repo": "Agent-R1",
-                "stars": 1682,
+                "stars": 1681,
                 "topics": [
                   "agent",
                   "agentic-rl",
@@ -1867,11 +1867,11 @@
                 "id": 954873280,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T09:21:53Z",
-                "open_issues": 278,
+                "last_commit": "2026-10-06T12:01:53Z",
+                "open_issues": 281,
                 "owner": "a2aproject",
                 "repo": "A2A",
-                "stars": 26027,
+                "stars": 26031,
                 "topics": [
                   "a2a",
                   "a2a-mcp",
@@ -1900,7 +1900,7 @@
                 "open_issues": 145,
                 "owner": "lastmile-ai",
                 "repo": "mcp-agent",
-                "stars": 8567,
+                "stars": 8568,
                 "topics": [
                   "agents",
                   "ai",
@@ -1938,10 +1938,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T19:09:19Z",
-            "open_issues": 1327,
+            "open_issues": 1329,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23754,
+            "stars": 23756,
             "topics": []
           },
           "first_seen": "2026-08-28T19:23:29.938Z"
@@ -1958,12 +1958,37 @@
             "id": 1004140701,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T05:56:55Z",
+            "last_commit": "2026-10-06T13:41:44Z",
             "open_issues": 531,
             "owner": "THUDM",
             "repo": "slime",
             "stars": 8597,
             "topics": []
+          },
+          "first_seen": "2026-08-28T19:23:29.938Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Harbor: A framework for evaluating and optimizing agents and models in container environments [Code]",
+          "description": "harbor-framework/harbor",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Framework for evaluating and improving agents ",
+            "homepage": "https://harborframework.com/",
+            "id": 1032170083,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-06T05:56:31Z",
+            "open_issues": 988,
+            "owner": "harbor-framework",
+            "repo": "harbor",
+            "stars": 5860,
+            "topics": [
+              "evals",
+              "rl-environments",
+              "terminal-bench"
+            ]
           },
           "first_seen": "2026-08-28T19:23:29.938Z"
         },
@@ -2005,31 +2030,6 @@
         },
         {
           "node_type": "item",
-          "title": "Harbor: A framework for evaluating and optimizing agents and models in container environments [Code]",
-          "description": "harbor-framework/harbor",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Framework for evaluating and improving agents ",
-            "homepage": "https://harborframework.com/",
-            "id": 1032170083,
-            "language": "Python",
-            "license": "Apache-2.0",
-            "last_commit": "2026-10-06T05:56:31Z",
-            "open_issues": 985,
-            "owner": "harbor-framework",
-            "repo": "harbor",
-            "stars": 5854,
-            "topics": [
-              "evals",
-              "rl-environments",
-              "terminal-bench"
-            ]
-          },
-          "first_seen": "2026-08-28T19:23:29.938Z"
-        },
-        {
-          "node_type": "item",
           "title": "ROLL: Reinforcement Learning Optimization for Large-Scale Learning [Code]",
           "description": "alibaba/ROLL",
           "children": [],
@@ -2065,11 +2065,11 @@
             "id": 941344611,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-06T04:18:23Z",
+            "last_commit": "2026-10-06T14:03:52Z",
             "open_issues": 7,
             "owner": "hud-evals",
             "repo": "hud-python",
-            "stars": 305,
+            "stars": 304,
             "topics": [
               "agents",
               "evals",
@@ -2278,7 +2278,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:32:09.170Z",
+    "last_updated": "2026-10-06T14:07:31.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of reinforcement learning (RL) for agents.",
