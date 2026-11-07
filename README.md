@@ -40,9 +40,9 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### RL for Research Agents
 
-* **Tongyi DeepResearch**: A New Era of Open-Source AI Researchers [\[Blog\]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) [\[Code\]](https://github.com/Alibaba-NLP/DeepResearch) ⭐ 20,100 | 🐛 100 | 🌐 Python | 📅 2026-02-27
-* **WebShaper**: Towards Autonomous Information Seeking Agency [\[Preprint'25\]](https://arxiv.org/abs/2507.15061) [\[Code\]](https://github.com/Alibaba-NLP/WebAgent) ⭐ 20,100 | 🐛 100 | 🌐 Python | 📅 2026-02-27
-* **WebSailor**: Navigating Super-human Reasoning for Web Agent [\[Preprint'25\]](https://arxiv.org/abs/2507.02592) [\[Code\]](https://github.com/Alibaba-NLP/WebAgent) ⭐ 20,100 | 🐛 100 | 🌐 Python | 📅 2026-02-27
+* **Tongyi DeepResearch**: A New Era of Open-Source AI Researchers [\[Blog\]](https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/) [\[Code\]](https://github.com/Alibaba-NLP/DeepResearch) ⭐ 20,106 | 🐛 101 | 🌐 Python | 📅 2026-02-27
+* **WebShaper**: Towards Autonomous Information Seeking Agency [\[Preprint'25\]](https://arxiv.org/abs/2507.15061) [\[Code\]](https://github.com/Alibaba-NLP/WebAgent) ⭐ 20,106 | 🐛 101 | 🌐 Python | 📅 2026-02-27
+* **WebSailor**: Navigating Super-human Reasoning for Web Agent [\[Preprint'25\]](https://arxiv.org/abs/2507.02592) [\[Code\]](https://github.com/Alibaba-NLP/WebAgent) ⭐ 20,106 | 🐛 101 | 🌐 Python | 📅 2026-02-27
 * **Search-R1**: Training LLMs to Reason and Leverage Search Engines with Reinforcement Learning [\[COLM'25\]](https://arxiv.org/abs/2503.09516) [\[Code\]](https://github.com/petergriffinjin/search-r1) ⭐ 5,568 | 🐛 40 | 🌐 Python | 📅 2025-11-13
 * **ReCall**: Learning to Reason with Tool Call for LLMs via Reinforcement Learning [\[Preprint'25\]](https://arxiv.org/abs/2503.19470) [\[Code\]](https://github.com/Agent-RL/ReCall) ⭐ 1,446 | 🐛 31 | 🌐 Python | 📅 2025-05-16
 * **ZeroSearch**: Incentivize the Search Capability of LLMs without Searching [\[Preprint'25\]](https://arxiv.org/abs/2505.04588) [\[Code\]](https://github.com/Alibaba-nlp/ZeroSearch) ⭐ 1,313 | 🐛 0 | 🌐 Python | 📅 2025-08-16
@@ -69,8 +69,8 @@ A curated list of reinforcement learning (RL) for agents.
 * **TORL**: Scaling Tool-Integrated RL [\[Preprint'25\]](https://arxiv.org/pdf/2503.23383) [\[Code\]](https://github.com/GAIR-NLP/ToRL) ⭐ 349 | 🐛 24 | 🌐 Python | 📅 2025-05-24
 * **Agent models**: Internalizing Chain-of-Action Generation into Reasoning models [\[Preprint'25\]](https://arxiv.org/abs/2503.06580) [\[Code\]](https://github.com/ADaM-BJTU/AutoCoA) ⭐ 134 | 🐛 4 | 🌐 Python | 📅 2025-03-18
 * **VisualToolAgent (VisTA)**: A Reinforcement Learning Framework for Visual Tool Selection [\[Preprint'25\]](https://arxiv.org/abs/2505.20289) [\[Code\]](https://github.com/OoDBag/VisTA) ⭐ 29 | 🐛 4 | 🌐 Python | 📅 2025-05-31
-* **DRACO**: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training [\[Preprint'26\]](https://arxiv.org/abs/2609.04094) [\[Code\]](https://github.com/IBM/draco) ⚠️ Archived
 * **ToolMaster**: Teaching LLMs to Learn Tool Trialing and Execution through Environment Interaction [\[Preprint'26\]](https://arxiv.org/abs/2601.12762) [\[Code\]](https://github.com/NEUIR/ToolMaster) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-01-21
+* **DRACO**: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training [\[Preprint'26\]](https://arxiv.org/abs/2609.04094) [\[Code\]](https://github.com/IBM/draco)
 * Incentivizing Agentic Reasoning in LLM Judges via Tool-Integrated Reinforcement Learning [\[Preprint'25\]](https://arxiv.org/abs/2510.23038)
 * **OTC**: Optimal Tool Calls via Reinforcement Learning [\[Preprint'25\]](https://arxiv.org/abs/2504.14870)
 * **ReTool**: Reinforcement Learning for Strategic Tool Use in LLMs [\[Preprint'25\]](https://arxiv.org/abs/2504.11536)
@@ -128,8 +128,8 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### CLI
 
-* **Terminal-Bench**: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces [\[Preprint'26\]](https://arxiv.org/abs/2601.11868) [\[Website\]](https://www.tbench.ai/) [\[Code\]](https://github.com/harbor-framework/terminal-bench) ⭐ 1,016 | 🐛 495 | 🌐 Python | 📅 2026-11-05
-* **Terminal-Bench-Science**: Evaluating AI agents on research workflows across scientific domains [\[Website\]](https://www.terminal-bench-science.ai/) [\[Code\]](https://github.com/harbor-framework/terminal-bench-science) ⭐ 830 | 🐛 605 | 🌐 Python | 📅 2026-11-06
+* **Terminal-Bench**: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces [\[Preprint'26\]](https://arxiv.org/abs/2601.11868) [\[Website\]](https://www.tbench.ai/) [\[Code\]](https://github.com/harbor-framework/terminal-bench) ⭐ 1,017 | 🐛 507 | 🌐 Python | 📅 2026-11-06
+* **Terminal-Bench-Science**: Evaluating AI agents on research workflows across scientific domains [\[Website\]](https://www.terminal-bench-science.ai/) [\[Code\]](https://github.com/harbor-framework/terminal-bench-science) ⭐ 835 | 🐛 608 | 🌐 Python | 📅 2026-11-07
 
 ### Deep research
 
@@ -148,9 +148,9 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### Computer Use
 
-* **OSWorld**: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments [\[NeurIPS'24\]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html) [\[Code\]](https://github.com/xlang-ai/OSWorld) ⭐ 3,253 | 🐛 171 | 🌐 Python | 📅 2026-11-02
-* **ClawBench**: Can AI Agents Complete Everyday Online Tasks? [\[Preprint'26\]](https://arxiv.org/abs/2604.08523) [\[Code\]](https://github.com/TIGER-AI-Lab/ClawBench) ⭐ 1,217 | 🐛 136 | 🌐 Python | 📅 2026-11-05 [\[Website\]](https://claw-bench.com/)
-* **Agents' Last Exam** [\[Preprint'26\]](https://arxiv.org/abs/2606.05405) [\[Code\]](https://github.com/rdi-berkeley/agents-last-exam) ⭐ 1,155 | 🐛 43 | 🌐 Python | 📅 2026-10-30 [\[Website\]](https://agents-last-exam.org/)
+* **OSWorld**: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments [\[NeurIPS'24\]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/5d413e48f84dc61244b6be550f1cd8f5-Abstract-Datasets_and_Benchmarks_Track.html) [\[Code\]](https://github.com/xlang-ai/OSWorld) ⭐ 3,256 | 🐛 171 | 🌐 Python | 📅 2026-11-02
+* **ClawBench**: Can AI Agents Complete Everyday Online Tasks? [\[Preprint'26\]](https://arxiv.org/abs/2604.08523) [\[Code\]](https://github.com/TIGER-AI-Lab/ClawBench) ⭐ 1,222 | 🐛 136 | 🌐 Python | 📅 2026-11-05 [\[Website\]](https://claw-bench.com/)
+* **Agents' Last Exam** [\[Preprint'26\]](https://arxiv.org/abs/2606.05405) [\[Code\]](https://github.com/rdi-berkeley/agents-last-exam) ⭐ 1,156 | 🐛 44 | 🌐 Python | 📅 2026-10-30 [\[Website\]](https://agents-last-exam.org/)
 * **SeeClick**: Harnessing GUI Grounding for Advanced Visual GUI Agents [\[ACL'24\]](https://aclanthology.org/2024.acl-long.505.pdf) [\[Code\]](https://github.com/njucckevin/SeeClick) ⭐ 496 | 🐛 4 | 🌐 HTML | 📅 2025-07-13
 * **OSWorld 2.0**: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks [\[Preprint'26\]](https://arxiv.org/abs/2606.29537) [\[Code\]](https://github.com/xlang-ai/OSWorld-V2) ⭐ 411 | 🐛 59 | 🌐 Python | 📅 2026-10-23
 * **ScreenSpot-Pro**: GUI Grounding for Professional High-Resolution Computer Use [\[Paper\]](https://likaixin2000.github.io/papers/ScreenSpot_Pro.pdf) [\[Code\]](https://github.com/likaixin2000/ScreenSpot-Pro-GUI-Grounding) ⭐ 398 | 🐛 8 | 🌐 Python | 📅 2026-06-17
@@ -160,11 +160,11 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### RL-based LLM agent tuning
 
-* **OpenManus-RL** [\[Code\]](https://github.com/OpenManus/OpenManus-RL) ⭐ 4,173 | 🐛 28 | 🌐 Python | 📅 2026-05-05 & **OpenManus** [\[Code\]](https://github.com/mannaandpoem/OpenManus) ⭐ 734 | 🐛 35 | 📅 2025-06-21
-* **RAGEN**: Training Agents by Reinforcing Reasoning [\[Code\]](https://github.com/ZihanWang314/ragen) ⭐ 2,839 | 🐛 31 | 🌐 Python | 📅 2026-10-28
-* **SkyRL-v0**: Train Real-World Long-Horizon Agents via Reinforcement Learning [\[Blog\]](https://novasky-ai.notion.site/skyrl-v0) [\[Code\]](https://github.com/NovaSky-AI/SkyRL) ⭐ 2,502 | 🐛 585 | 🌐 Python | 📅 2026-11-06
-* **Agent-R1**: Training Powerful LLM Agents with End-to-End Reinforcement Learning [\[Code\]](https://github.com/0russwest0/Agent-R1) ⭐ 1,715 | 🐛 50 | 🌐 Python | 📅 2026-11-02
-* **XiaomiMiMo/verl** [\[Code\]](https://github.com/XiaomiMiMo/verl) ⭐ 752 | 🐛 2 | 🌐 Python | 📅 2026-10-19
+* **OpenManus-RL** [\[Code\]](https://github.com/OpenManus/OpenManus-RL) ⭐ 4,174 | 🐛 28 | 🌐 Python | 📅 2026-05-05 & **OpenManus** [\[Code\]](https://github.com/mannaandpoem/OpenManus) ⭐ 735 | 🐛 35 | 📅 2025-06-21
+* **RAGEN**: Training Agents by Reinforcing Reasoning [\[Code\]](https://github.com/ZihanWang314/ragen) ⭐ 2,840 | 🐛 31 | 🌐 Python | 📅 2026-10-28
+* **SkyRL-v0**: Train Real-World Long-Horizon Agents via Reinforcement Learning [\[Blog\]](https://novasky-ai.notion.site/skyrl-v0) [\[Code\]](https://github.com/NovaSky-AI/SkyRL) ⭐ 2,503 | 🐛 610 | 🌐 Python | 📅 2026-11-07
+* **Agent-R1**: Training Powerful LLM Agents with End-to-End Reinforcement Learning [\[Code\]](https://github.com/0russwest0/Agent-R1) ⭐ 1,716 | 🐛 52 | 🌐 Python | 📅 2026-11-02
+* **XiaomiMiMo/verl** [\[Code\]](https://github.com/XiaomiMiMo/verl) ⭐ 751 | 🐛 2 | 🌐 Python | 📅 2026-10-19
 * **VAGEN**: Training VLM Agents with Multi-Turn Reinforcement Learning [\[Code\]](https://github.com/RAGEN-AI/vagen) ⭐ 520 | 🐛 9 | 🌐 Python | 📅 2026-10-29
 * **Terminal-Bench-RL**: Training Long-Horizon Terminal Agents with Reinforcement Learning [\[Code\]](https://github.com/Danau5tin/terminal-bench-rl) ⭐ 419 | 🐛 1 | 🌐 Python | 📅 2025-08-24
 * **Claw-R1**: Empowering OpenClaw with Advanced Agentic RL [\[Page\]](https://agentr1.github.io/Claw-R1/) [\[Code\]](https://github.com/AgentR1/Claw-R1) ⭐ 193 | 🐛 1 | 🌐 Python | 📅 2026-08-22
@@ -176,17 +176,17 @@ A curated list of reinforcement learning (RL) for agents.
 
 ### MCP Agents
 
-* **Agent2Agent (A2A) protocol** [\[Code\]](https://github.com/google/A2A) ⭐ 26,437 | 🐛 300 | 🌐 Shell | 📅 2026-11-05
-* **mcp-agent** [\[Code\]](https://github.com/lastmile-ai/mcp-agent) ⭐ 8,576 | 🐛 155 | 🌐 Python | 📅 2026-01-25
+* **Agent2Agent (A2A) protocol** [\[Code\]](https://github.com/google/A2A) ⭐ 26,436 | 🐛 303 | 🌐 Shell | 📅 2026-11-05
+* **mcp-agent** [\[Code\]](https://github.com/lastmile-ai/mcp-agent) ⭐ 8,576 | 🐛 157 | 🌐 Python | 📅 2026-01-25
 
 ## 🧰 Toolkits & Frameworks
 
-* **verl**: Volcano Engine Reinforcement Learning for LLM [\[Code\]](https://github.com/volcengine/verl) ⭐ 24,155 | 🐛 1,464 | 🌐 Python | 📅 2026-11-06
-* **slime**: An SGLang-Native Post-Training Framework for RL Scaling [\[Code\]](https://github.com/THUDM/slime) ⭐ 8,802 | 🐛 559 | 🌐 Python | 📅 2026-11-05
-* **Harbor**: A framework for evaluating and optimizing agents and models in container environments [\[Code\]](https://github.com/harbor-framework/harbor) ⭐ 6,846 | 🐛 1,223 | 🌐 Python | 📅 2026-11-06
-* **rLLM**: Reinforcement Learning for Language Agents [\[Code\]](https://github.com/rllm-org/rllm) ⭐ 5,910 | 🐛 180 | 🌐 Python | 📅 2026-10-16
-* **ROLL**: Reinforcement Learning Optimization for Large-Scale Learning [\[Code\]](https://github.com/alibaba/ROLL) ⭐ 3,447 | 🐛 143 | 🌐 Python | 📅 2026-11-06
-* **HUD**: A toolkit for building RL environments with verifiable, task-based rewards for LLM agents (coding, browser, computer-use, robotics), runnable as evals and RL training [\[Code\]](https://github.com/hud-evals/hud-python) ⭐ 323 | 🐛 4 | 🌐 Python | 📅 2026-11-06
+* **verl**: Volcano Engine Reinforcement Learning for LLM [\[Code\]](https://github.com/volcengine/verl) ⭐ 24,162 | 🐛 1,463 | 🌐 Python | 📅 2026-11-06
+* **slime**: An SGLang-Native Post-Training Framework for RL Scaling [\[Code\]](https://github.com/THUDM/slime) ⭐ 8,807 | 🐛 559 | 🌐 Python | 📅 2026-11-05
+* **Harbor**: A framework for evaluating and optimizing agents and models in container environments [\[Code\]](https://github.com/harbor-framework/harbor) ⭐ 6,871 | 🐛 1,231 | 🌐 Python | 📅 2026-11-07
+* **rLLM**: Reinforcement Learning for Language Agents [\[Code\]](https://github.com/rllm-org/rllm) ⭐ 5,912 | 🐛 181 | 🌐 Python | 📅 2026-10-16
+* **ROLL**: Reinforcement Learning Optimization for Large-Scale Learning [\[Code\]](https://github.com/alibaba/ROLL) ⭐ 3,448 | 🐛 143 | 🌐 Python | 📅 2026-11-07
+* **HUD**: A toolkit for building RL environments with verifiable, task-based rewards for LLM agents (coding, browser, computer-use, robotics), runnable as evals and RL training [\[Code\]](https://github.com/hud-evals/hud-python) ⭐ 323 | 🐛 10 | 🌐 Python | 📅 2026-11-07
 * **AgentCreditBench**: Exact-oracle, CPU-only conformance tests for turn-level credit assignment and advantage estimators in agentic RL [\[Website\]](https://hectopascal.github.io/agent-credit-bench/) [\[Code\]](https://github.com/hectopascal/agent-credit-bench) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-11-02
 
 ## 📄 Tutorials & Blog Posts
@@ -194,12 +194,12 @@ A curated list of reinforcement learning (RL) for agents.
 * **Forge**: Scalable Agent RL Framework and Algorithm [\[Blog\]](https://www.minimax.io/news/forge-scalable-agent-rl-framework-and-algorithm)
 * **Cut the Bill, Keep the Turns**: Affordable Multi-Turn Search RL [\[Blog\]](https://agate-slipper-ef0.notion.site/Cut-the-Bill-Keep-the-Turns-Affordable-Multi-Turn-Search-RL-003f78214a4d451fb06f453d084e666c)
 * **Introducing ChatGPT agent**: bridging research and action [\[Blog\]](https://openai.com/index/introducing-chatgpt-agent/)
-* **Context Engineering** [\[Github\]](https://github.com/davidkimai/Context-Engineering) ⭐ 9,274 | 🐛 3 | 🌐 Python | 📅 2026-02-27
+* **Context Engineering** [\[Github\]](https://github.com/davidkimai/Context-Engineering) ⭐ 9,277 | 🐛 3 | 🌐 Python | 📅 2026-02-27
 * **The Second Half** [\[Blog\]](https://ysymyth.github.io/The-Second-Half/)
 
 ## 🔗 Related Awesome Lists
 
-* **Agent-Memory-Paper-List** [\[List\]](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ⭐ 2,464 | 🐛 16 | 📅 2026-03-04 - covering agent memory papers
+* **Agent-Memory-Paper-List** [\[List\]](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) ⭐ 2,464 | 🐛 17 | 📅 2026-03-04 - covering agent memory papers
 * **Awesome-AgenticLLM-RL-Papers** [\[List\]](https://github.com/xhyumiracle/Awesome-AgenticLLM-RL-Papers) ⭐ 1,920 | 🐛 10 | 📅 2026-06-18 - covering Agentic RL papers in both agentic capabilities and applications
 * **Awesome Deep Research Agent** [\[List\]](https://github.com/ai-agents-2030/awesome-deep-research-agent) ⭐ 641 | 🐛 10 | 📅 2025-09-18 - covering deep research agents and benchmark results
 * **Awesome-Agent-RL** [\[List\]](https://github.com/0russwest0/Awesome-Agent-RL) ⭐ 512 | 🐛 2 | 📅 2025-10-11 - covering RL for research agents
@@ -224,4 +224,4 @@ We aim to keep this list high-quality, practical, and focused. Thank you for hel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
